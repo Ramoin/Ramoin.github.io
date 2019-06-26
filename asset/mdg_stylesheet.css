@@ -80,11 +80,9 @@ img{
 }
 
 img:hover{
-	opacity: 0.1;
 }
 
-mdg-card:hover{
-	font-size: 3em;	
+.mdg-card:hover{
 }
 
 
@@ -92,8 +90,6 @@ mdg-card:hover{
 	margin-left: 6%;
 	margin-right: 6%;
 	margin-top: 3%;
-	background-color: #1a1a1a;
-	/*font-size: 0;*/
 }
 
 
@@ -105,7 +101,6 @@ mdg-card:hover{
 	font-size: 2em;
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
 }
 
 
@@ -132,12 +127,8 @@ mdg-card:hover{
 
 .mdg-signature{
 	float: right;
-	bottom: 0;
-	margin-right: 5%;
 }
 
 .mdg-credits{
-	bottom: 0;
-	margin-left: 5%;
 	float: left;
 }
