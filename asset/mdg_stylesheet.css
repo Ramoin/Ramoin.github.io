@@ -132,3 +132,10 @@ img:hover{
 .mdg-credits{
 	float: left;
 }
+
+.mdg-footer-credits{
+	font-family: "Helvetica Neue";
+	font-weight: lighter;
+	font-size: 2.5em;
+	text-align: center;
+}
