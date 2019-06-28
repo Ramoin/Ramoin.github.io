@@ -4,6 +4,13 @@
 	background-color: #ffffe6;
 }
 
+.mdg-body-credits{
+	width: 100%;
+	height: 100%;
+	background-color: #ffffe6;
+	text-align: center;
+}
+
 /*HEADER*/
 
 .mdg-header{
@@ -111,6 +118,11 @@ img:hover{
 	align-self: stretch;
 }
 
+.mdg-credits{
+	padding-left: 32%;
+	padding-right: 32%;
+	padding-top: 15%;
+}
 
 
 
@@ -129,7 +141,7 @@ img:hover{
 	float: right;
 }
 
-.mdg-credits{
+.mdg-credits-footer{
 	float: left;
 }
 
